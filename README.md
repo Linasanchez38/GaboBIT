@@ -1,1 +1,3 @@
 # GaboBIT
+
+Proyecto de práctica
